@@ -12,6 +12,6 @@ Install "playwright for test" extension in VS Code
 Install playwright using terminal command(npx init playwright@latest)
 
 # To run the test
-npx playwright ./tests/Signup.spec.ts
+npx playwright test ./tests/Signup.spec.ts
 
 
